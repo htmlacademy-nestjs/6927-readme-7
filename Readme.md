@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
-* Студент: [Arthur Litovko](https://up.htmlacademy.ru/nodejs-2/7/user/6927).
-* Наставник: `Неизвестно`.
+* Студент: [Arthur Litovko](https://github.com/baileys-li).
+* Наставник: [Евгений Наумов](https://github.com/NaumovEvgeniy).
 
 ---
 
